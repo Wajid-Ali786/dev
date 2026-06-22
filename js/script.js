@@ -1,0 +1,1 @@
+console.log("Wajid Ali Portfolio Loaded");

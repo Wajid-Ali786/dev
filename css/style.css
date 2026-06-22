@@ -1,0 +1,10 @@
+
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:Arial,sans-serif;line-height:1.6;background:#f5f7fb;color:#222}
+nav{display:flex;justify-content:space-between;padding:20px 8%;background:#fff;position:sticky;top:0}
+.links a{margin-left:15px;text-decoration:none;color:#222}
+.hero{text-align:center;padding:100px 20px}
+.btn{display:inline-block;padding:12px 24px;background:#2563eb;color:#fff;text-decoration:none;border-radius:8px}
+section{padding:70px 8%}
+.projects{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:15px}
+.projects a{background:#fff;padding:20px;text-decoration:none;color:#222;border-radius:10px}
